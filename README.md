@@ -18,7 +18,7 @@ Trying To Build Our Ideas & Projects Into The Real World, We Have A Bunch Of Ide
 - Firstly Released “Aqarati” (Real Estate Trading APP), <br/> Which Available On AppGallery&PlayStore & Very Soon (Task-Mate) & Others To Come.  
 </div>
 
-<div>✨ Going To Continue To Learn, (🌬Supreme Dream, ❄️Low Abilities)✨</div>
+<div>✨ Going To Continue To Learn, (🌬Supreme Dreams, ❄️Low Abilities)✨</div>
 
 <!---
 elmanna/elmanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
