@@ -6,7 +6,7 @@
   A Recent Graduate 👨‍🎓, Studied Information Technology In University Of Science & Technology (UST), <br/>
 Sudanese, Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends Love To Say Focus In One Field But My Heart Just Resists & Just Fall In For Many (Pure Love “Immaterial”).
 
-  Recently Focusing In <b>Software Engineering</b> & Interested In: <br/> <img src="https://github.com/elmanna/elmanna/blob/main/dot.gif" width="44" height="33"/>  <b>Exploit Development</b> (so started to  focus in building blocks like assembly 👀), <br/> CyberSecurity (which many others seeking, but I believe Only Ones Who Truly Loving It Will Continue To Accomplish What  They Love)) .
+  Recently Focusing In <b>Software Engineering</b> & Interested In: <br/> <img style="border-radius: 360" src="https://github.com/elmanna/elmanna/blob/main/dot.gif" width="44" height="33"/>  <b>Exploit Development</b> (so started to  focus in building blocks like assembly 👀), <br/> CyberSecurity (which many others seeking, but I believe Only Ones Who Truly Loving It Will Continue To Accomplish What  They Love)) .
 
 Currently Started (Very Small - Virtual) Software Engineering Company  With My Close Friend (@moonysuper), Called PlusStudio 🖥⌨️, Trying To Build Our Ideas & Projects
 Into The Real World, We Have A Bunch Of Ideas To Come PlusStudio(https://github.com/PlusMJ), Firstly Released “Aqarati” Which Available On AppGallery&PlayStore & Very Soon (Task-Mate).
