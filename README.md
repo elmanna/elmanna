@@ -12,14 +12,16 @@ Sudanese, Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends 
 </h4>
 <div>
   Recently Focusing In <b>Software Engineering</b> & Interested In: <br/> 
-  - <b>Exploit Development</b> (so started to  focus in building blocks like assembly 👀),<br/> 
+  - <b>Exploit Development</b> (so started to learn building blocks like assembly 👀),<br/> 
   - CyberSecurity (which many others seeking, but I believe Only Ones Who Truly Loving It Will Continue To Accomplish What  They Love).
 
   🔱 Currently Started (Very Small-Virtual) Software Engineering Company With My Close Friend(@moonysuper), Named Plus-Studio 🖥⌨️ 
   Trying To Build Our Ideas & Projects Into The Real World, We Have A Bunch Of Ideas To Come.
-  <br/>PlusStudio(https://github.com/PlusMJ) 👀 Which I Believe All Projects Are Private. <br/>
+  <br/>Plus-Studio(https://github.com/PlusMJ) 👀 Which I Believe All Projects Are Private. <br/>
   - Firstly Released “Aqarati” (Real Estate Trading APP), <br/> Which Available On AppGallery&PlayStore & Very Soon (Task-Mate) & Others To Come.  
 </div>
+  
+ - Reach Me Out <a href="https://twitter.com/AhmedAlmnna?t=USH1Rv12VcCTmfZ4G7Hr6w&s=09"><img src="https://github.com/elmanna/elmanna/blob/main/twitter.gif" width="48" height="48" /> </a>
 
 <div>✨(🌬Supreme Dreams, ❄️Low Abilities)✨</div>
 
