@@ -1,4 +1,4 @@
-<h1><div align="center">✨In Name Of Allah Most Gracious Most Merciful✨</div></h1>
+<h1><div align="center">✨Welcome To My Profile✨</div></h1>
 
 <h4>
 <div align="center">🌱 Hi <img src="https://github.com/elmanna/elmanna/blob/main/Hi.gif" width="24" height="24"/> 
