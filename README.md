@@ -6,8 +6,7 @@
 <div align="center">
  
   
-  A Very Recent Graduate 👨‍🎓, Studied Information Technology In University Of Science & Technology (UST), <br/>
-Sudanese, Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends Love To Say Focus In One Field But My Heart Just Resists & Just Fall In For Many (Pure Love “Immaterial”).
+  A Very Recent Graduate 👨‍🎓, Studied Information Technology In University Of Science & Technology (UST), <br/> Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends Love To Say Focus In One Field But My Heart Just Resists & Just Fall In For Many (Pure Love “Immaterial”).
 <div/>
 </h4>
 <div>
