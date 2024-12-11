@@ -6,15 +6,15 @@
 <div align="center">
  
   
-  A Very Recent Graduate 👨‍🎓, Studied Information Technology In University Of Science & Technology (UST), <br/> Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends Love To Say Focus In One Field But My Heart Just Resists & Just Fall In For Many (Pure Love “Immaterial”).
+  A Progamming GEEK, Granted Excellency & Honors  in IT/CS 2022, <br/> Filled With Passion For Many Fields in CS, <br/> Colleagues & Friends Love To Say Focus In One Field But My Heart Just Resists & Just Fall In For Many (Pure Love “Immaterial”).
 <div/>
 </h4>
 <div>
-  Recently Focusing In <b>Software Engineering</b> & Interested In: <br/> 
-  - <b>Exploit Development</b> (so started to learn building blocks like assembly 👀),<br/> 
-  - CyberSecurity (which many others seeking, but I believe Only Ones Who Truly Loving It Will Continue To Accomplish What  They Love).
+  <b>Software Engineering</b>  & Interested In: <br/> 
+  - <b>Exploit Development</b> 
+  <br/> 
 
-<div>✨(🌬Supreme Dreams, ❄️Low Abilities)✨</div>
+<div>✨(🌬Supreme Dreams, 🔱 Programming OCD ✨)</div>
 
 <!---
 elmanna/elmanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
